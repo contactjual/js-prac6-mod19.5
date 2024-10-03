@@ -11,3 +11,7 @@ let stringResult = stringOutput.join('');
 // let stringSplit = stringResult.split(' ');
 let stringSplit = stringResult.split();
 console.log(stringSplit);
+
+
+
+// Output: 'TomTimTinTik'
