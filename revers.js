@@ -33,7 +33,7 @@ const revNumbers = [];
 
 
 
-// start from revers site  or decremental
+// start from revers site  or decremental , mathod of revers array without revers property
 
 for (let i = numbers.length - 1; i>=0; i--){
     const num = numbers[i];
